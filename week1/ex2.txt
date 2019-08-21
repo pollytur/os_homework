@@ -1,0 +1,500 @@
+   20  find . 
+   21  find . | grep Untitled6_
+   22  jupyter notebook
+   23  ls
+   24  cd ..
+   25  ls
+   26  mkdir -p Workspace
+   27  cd Workspace/
+   28  las
+   29  ls
+   30  ls
+   31  pwd
+   32  ls
+   33  cd ..
+   34  ls
+   35  ls -lh
+   36  apt
+   37  brew install
+   38  apt install
+   39  apt install sudoku
+   40  sudo apt search sudoku
+   41  ls
+   42  bash
+   43  pwd
+   44  crontab
+   45  cron
+   46  sudo bash
+   47  jupyter notebook
+   48  cd Workspace/
+   49  pwd
+   50  jupyter notebook
+   51  cd ..
+   52  cd Downloads/
+   53  ls
+   54  cd ..
+   55  cd Desktop/
+   56  ls
+   57  find . | grep ipynb
+   58  pwd
+   59  mv ~/Downloads/Untitled6_.ipynb .
+   60  ls
+   61  pip install pyunicorn
+   62  which pip
+   63  python --version
+   64  python -m install pyunicorn
+   65  python -m pyunicorn
+   66  python -m -U pyunicorn
+   67  python -m -u pyunicorn
+   68  python -m pyunicorn
+   69  nano /Users/polinaturiseva/anaconda3/lib/python3.7/site-packages/pyunicorn/utils/mpi.py
+   70  vim /Users/polinaturiseva/anaconda3/lib/python3.7/site-packages/pyunicorn/utils/mpi.py
+   71  nano /Users/polinaturiseva/anaconda3/lib/python3.7/site-packages/pyunicorn/utils/mpi.py
+   72  python -m pyunicorn
+   73  nano /Users/polinaturiseva/anaconda3/lib/python3.7/site-packages/pyunicorn/utils/mpi.py
+   74  python -m pyunicorn
+   75  nano /Users/polinaturiseva/anaconda3/lib/python3.7/site-packages/pyunicorn/utils/mpi.py
+   76  python -m pyunicorn
+   77  nano /Users/polinaturiseva/anaconda3/lib/python3.7/site-packages/pyunicorn/utils/mpi.py
+   78  python -m pyunicorn
+   79  nano /Users/polinaturiseva/anaconda3/lib/python3.7/site-packages/pyunicorn/core/data.py
+   80  ls
+   81  cd ..
+   82  tg
+   83  cd ~/Downloads/
+   84  ls
+   85  find . | grep mice
+   86  pwd
+   87  python
+   88  brew
+   89  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   90  brew edit valgrind
+   91  brew edit valgrind
+   92  brew update
+   93  brew install --HEAD valgrind
+   94  brew edit valgrind
+   95  brew edit valgrind
+   96  sudo $ pip install compiledb
+   97  $ pip install compiledb
+   98  sudo pip install compiledb
+   99  pip
+  100  cd Desktop
+  101  cd~/desktop
+  102  cd~/ls
+  103  $ls
+  104  chmod untitled3 777
+  105  ь
+  106  make -f Makefile11
+  107  make -f Makefile11
+  108  make -f Makefile11 all
+  109  cd ~\polinaturiseva
+  110  cd untitled3\Makefile11
+  111  make -f Makefile11 all
+  112  $ ./config
+  113  sudo $ ./config
+  114  sudo ./config
+  115  make -f Makefil alle
+  116  make
+  117  make all
+  118  make
+  119  pwd
+  120  ls
+  121  cd  untitled3
+  122  make
+  123  make all
+  124  ls
+  125  cd cmake-build-debug
+  126  make
+  127  ls
+  128  ls
+  129  make
+  130  make all
+  131  ls
+  132  mv Makefile.rtf makefile
+  133  make
+  134  cat makefile 
+  135  vi makefile
+  136  ls
+  137  make
+  138  cd Downloads/
+  139  ls
+  140  cd application.macosx/
+  141  ls
+  142  OpenBCI_GUI.app/
+  143  java -jar OpenBCI_GUI.app/
+  144  cd OpenBCI_GUI.app/
+  145  ls
+  146  cd ..
+  147  git --version
+  148  node--version
+  149  node --version
+  150  npm --version
+  151  echo PATH
+  152  echo $PATH
+  153  npm install -g browser-sync
+  154  sudo npm install -g browser-sync
+  155  browser sync --version
+  156  browser-sync --version
+  157  ls
+  158  ls
+  159  ls
+  160  mkdir test_site
+  161  cd test_site
+  162  ls
+  163  browser-sync start --server --directory --files "*"
+  164  git clone https://github.com/pollytur/coursera-test.git
+  165  ls
+  166  cd coursera-test/
+  167  ls
+  168  git status
+  169  git checkout gh-pages
+  170  ls
+  171  cd
+  172  cd Desktop
+  173  bundle install
+  174  ls
+  175  bundle install
+  176  gem install bundler
+  177  sudo
+  178  sudo gem install bundler
+  179  bundle install
+  180  cd Here
+  181  gem install bundler
+  182  sudo gem install bundler
+  183  bundle install
+  184  cd Desktop
+  185  ls
+  186  ls
+  187  cd ..
+  188  mkdir Mew
+  189  cd Mew
+  190  heroku git:clone -a s7holiday
+  191  heroku git:clone -a s7holiday
+  192  sudo gem install bundler
+  193  install bundle
+  194  cd s7holiday/
+  195  sudo gem install bundler
+  196  bundle install
+  197  rvm install ruby-2.5.1
+  198  curl -L https://get.rvm.io | bash -s stable
+  199  rvm install rby-2.5.1
+  200  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  201  import mne
+  202  stc_path = 'Downloads/meditation_project-master/Dataset'
+  203  stc = mne.read_source_estimate(stc_path, 'OpenBCI-RAW-2019-03-30_13-15-30_Subject1_Session1_Coding.txt')
+  204  stc = mne.compute_source_morph(stc, 'OpenBCI-RAW-2019-03-30_13-15-30_Subject1_Session1_Coding.txt', 'fsaverage_sym', 
+  205                                 warn=False,
+  206                                 subjects_dir=subjects_dir).apply(stc)
+  207  morph = mne.compute_source_morph(stc, 'fsaverage_sym', 'fsaverage_sym',
+  208                                   spacing=stc.vertices, warn=False,
+  209                                   subjects_dir=subjects_dir, xhemi=True,
+  210                                   verbose='error')  # creating morph map
+  211  stc_xhemi = morph.apply(stc)
+  212  diff = stc - stc_xhemi
+  213  diff.plot(hemi='lh', subjects_dir=subjects_dir, initial_time=0.00,
+  214            size=(800, 600)
+  215  pip install mne
+  216  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  217  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  218  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  219  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  220  pip numpy
+  221  pip show numpy
+  222  pip update numpy
+  223  pip install numpy --upgrade
+  224  pip install --upgrade pip
+  225  pip install scipy --upgrade
+  226  pip istall mne --upgrade
+  227  pip install mne --upgrade
+  228  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  229  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  230  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  231  /Users/polinaturiseva/Downloads/Notepad_plus_plus/Orbicraft_Test_Program/hello/Makefile ; exit;
+  232  /Users/polinaturiseva/Downloads/Notepad++/notepad++.exe
+  233  wine notepad++.exe
+  234  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  235  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  236  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  237  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  238  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  239  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  240  $ split -l 2560 /Users/polinaturiseva/Desktop/hackaton/dataset/Kostya_zapici/track1_filtered.csv
+  241  $ split -l 2560 track1_filtered.csv
+  242  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  243  test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+  244    wine msiexec /Users/polinaturiseva/Downloads/Neurop Agent.3.00.0256.msi
+  245   Neurop Agent.3.00.0256
+  246  .msiwine start Neurop Agent.3.00.0256.msi
+  247   Neurop Agent.3.00.0256
+  248  .msi
+  249  wine start Neurop Agent.3.00.0256.msi
+  250   Neurop Agent.3.00.0256
+  251  .msi  wine msiexec /Users/polinaturiseva/Downloads/NeuropAgent.msi
+  252   wine msiexec /Users/polinaturiseva/Downloads/ NeuropAgent.msi
+  253  Neurop Agent.3.00.0256.msi
+  254   Neurop Agent.3.00.0256
+  255  .msi wine msiexec /i NeuropAgent.msi
+  256   wine msiexec /i NeuropAgent.msi
+  257  ls
+  258  ls
+  259  ls -l
+  260  ls -a
+  261  cd
+  262  cd
+  263  -cd
+  264  cd applications
+  265  cd Music
+  266  ls
+  267  ls
+  268  cd week7
+  269  ls
+  270  ды
+  271  ls
+  272  cd~
+  273  cd
+  274  ls
+  275  cd Desktop
+  276  ls
+  277  cd ..
+  278  ls
+  279  Desktop
+  280  cd Desktop
+  281  ls
+  282  cd books
+  283  ls
+  284  ls-l
+  285  ls -a
+  286  cd ~
+  287  ls
+  288  cd Desktop
+  289  ls
+  290  cd books
+  291  ls
+  292  cd /
+  293  ls
+  294  pwd
+  295  ls
+  296  cd Applications
+  297  ls
+  298  pwd
+  299  ls
+  300  cd
+  301  ls
+  302  cd Desktop
+  303  ls
+  304  cd books
+  305  ls
+  306  cd Desktop
+  307  ls
+  308  cd \Desktop
+  309  cd /Desktop
+  310  clear
+  311  top
+  312  man try
+  313  man sudo
+  314  hostman
+  315  hostname
+  316  whoami
+  317  tree -d / |less 
+  318  tree -d / |less
+  319  ды
+  320  ls
+  321  tree -d / |less
+  322  printf \a
+  323  printf "\a"
+  324  printf "\a"
+  325  printf "\a"
+  326  printf "\d"
+  327  printf "\f"
+  328  man echo
+  329  cat >> try1.sh 
+  330  ./try1.sh 
+  331  cat >> try1.sh 
+  332  ./try1.sh 
+  333  vi try1.sh 
+  334  cw mew mew mew
+  335  wc mew mew mew
+  336  wc 
+  337  date> today.txt
+  338  ды
+  339  ls
+  340  cd Desktop
+  341  ls
+  342  ls -s
+  343  ls -a
+  344  ls
+  345  ls -a
+  346  ls -R
+  347  echo "Хороший день."
+  348  printf "mewww n"
+  349  man printf
+  350  clear
+  351  man chmod
+  352  man chmod +x
+  353  man chmod +x hello.sh
+  354  chmod +x hello.sh
+  355  man touch
+  356  touch try1.sh
+  357  ls
+  358  chmod +x try1.sh
+  359  cat >> try1.sh
+  360  ./hello.sh
+  361  ./try1.sh 
+  362  ьфт сфе
+  363  man cat
+  364  $ curl ifconfig.co
+  365  curl ifconfig.co
+  366  ifconfig
+  367  ifconfig | grep 91
+  368  ifconfig | grep 91.*
+  369  ifconfig
+  370  curl https://habr.com/ru/post/47163/
+  371  curl -k https://stackoverflow.com/questions/10079707/https-connection-using-curl-from-command-line
+  372  curl -k -o https://stackoverflow.com/questions/10079707/https-connection-using-curl-from-command-line
+  373  curl -k -o try1.sh https://stackoverflow.com/questions/10079707/https-connection-using-curl-from-command-line
+  374  head try1.sh 
+  375  vi try1.sh 
+  376  K
+  377  K
+  378  screen -ls
+  379  ls
+  380  screen -la
+  381  K
+  382  screen
+  383  Ctrl+a?
+  384  qqqq
+  385  screen -ls
+  386  �
+  387  с
+  388  �
+  389  touch try2.txt
+  390  ls
+  391  ls |grep try
+  392  cat >> try2.txt
+  393  ./try2.txt
+  394  chmod +x ./try2.txt
+  395  chmod +x try2.txt
+  396  ./try2.txt
+  397  ./try2.txt
+  398  vi ./try2.txt
+  399  ./try2.txt
+  400  vi try2.txt 
+  401  ./try2.txt 
+  402  clear
+  403  man curl
+  404  man curl | grep -u
+  405  man curl | grep "-u"
+  406  man curl
+  407  https://andreyex.ru/operacionnaya-sistema-linux/5-osnovnyx-primerov-komandy-curl
+  408  curl -k -I https://andreyex.ru/operacionnaya-sistema-linux/5-osnovnyx-primerov-komandy-curl/
+  409   whereis bash
+  410  printf $OSTYPE
+  411  echo $OS
+  412  echo $OSTYPE
+  413  /etc
+  414  ls
+  415  cd
+  416  ls
+  417  etc
+  418  cd etc
+  419  $XDG_DATA_DIRS
+  420  screen --version
+  421  screen
+  422  ls
+  423  man ls
+  424  ls A
+  425  ls -A
+  426  find ~/.screenrc
+  427  ls -al ~/.ssh/id_*.pub
+  428  ssh-keygen -t rsa -b 4096 -C "havegreatsuccessq@gmail.com"
+  429  ls ~/.ssh/id_*
+  430  ls ~/.ssh/id_*
+  431  ssh-copy-id remote_username@server_ip_address
+  432  chmod 400 awm_22_july.pem
+  433  chmod 400 awm_22_july.pem
+  434  ssh -i "awm_22_july.pem" ubuntu@ec2-13-58-28-158.us-east-2.compute.amazonaws.com
+  435  clear
+  436  ip link
+  437  ifconfig
+  438  ifconfig | grep mac
+  439  ls ~/.ssh/id_*
+  440  clear
+  441  ls ~/.ssh/id_*
+  442  cat /Users/polinaturiseva/.ssh/id_rsa.pub
+  443  man cat
+  444  clear
+  445  ssh root@82.146.60.107 -p 61535
+  446  ssh root@82.146.60.107 -p 61535
+  447  ssh root@82.146.60.107 -p 61535
+  448  ls ~/.ssh/id_*
+  449  chmod 400 /Users/polinaturiseva/.ssh/id_rsa.pub
+  450  ssh -i "/Users/polinaturiseva/.ssh/id_rsa.pub" root@82.146.60.107 -p 61535
+  451  ssh -i "id_rsa.pub" root@82.146.60.107 -p 61535
+  452  ssh -N -L 5432:127.0.0.1:5432 -i "Users/polinaturiseva/.ssh/id_rsa.pub"  root@82.146.60.107 -p 61535
+  453  ssh -N -L 5432:localhost:5432 -i "Users/polinaturiseva/.ssh/id_rsa.pub"  root@82.146.60.107 -p 61535
+  454  ssh -N -L 5433:127.0.0.1:5432 -i "Users/polinaturiseva/.ssh/id_rsa.pub"  root@82.146.60.107 -p 61535
+  455  ps -ax
+  456  ps -ax | grep text
+  457  ps -ax | grep Text
+  458  sudo rm –f /Applications/TextEdit.app 
+  459  sudo rm /Applications/TextEdit.app 
+  460  sudo rm –rf /Applications/TextEdit.app 
+  461  man rm | grep directory
+  462  clear
+  463  ssh -N -L 5433:127.0.0.1:5432 -i "Users/polinaturiseva/.ssh/id_rsa.pub"  root@82.146.60.107 -p 61535 
+  464  ssh -N -L 5434:127.0.0.1:5432 -i "Users/polinaturiseva/.ssh/id_rsa.pub"  root@82.146.60.107 -p 61535 
+  465  cd ~/Documents/neurosdk.framework/Modules/neurosdk.swiftmodule/
+  466  ll
+  467  ls -la
+  468  cd ..
+  469  man grep
+  470  pip install theano
+  471  pip install tensorflow
+  472  pip install tensorflow
+  473  pip install keras
+  474  pip install --upgrade pip
+  475  pip install tensorflow
+  476  pip install TensorFlow
+  477  ping 8.8.8.8
+  478  traceroute -d habrhabr.ru
+  479  traceroute -d habrahabr.ru
+  480  nslookup www.urfu.ru
+  481  pip install tensorflow
+  482  arp -a
+  483  pip install tensorflow
+  484  pip uninstall tensorflow
+  485  pip unistall tensorflow
+  486  pip uninstall tensorflow
+  487  pip intall tensorflow
+  488  pip install tensorflow
+  489  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  490  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  491  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  492  cd
+  493  cd  Downloads/
+  494  ls 
+  495  ls | grep .mp3
+  496  /Users/polinaturiseva/anaconda3/bin/jupyter_mac.command ; exit;
+  497  jobs
+  498  cd
+  499  ls
+  500  jobs
+  501  history 
+  502  mkdir ~/week1
+  503  cd ~/week1 | grep week1 
+  504  cd ~/week1 
+  505  ls 
+  506  ls
+  507  cd
+  508  ls
+  509   cd week1
+  510  ls
+  511  /usr/bin
+  512  ls /usr/bin
+  513  ls /usr/bin |grep gcc
+  514  ls -lt  /usr/bin |grep gcc
+  515  ls rt  /usr/bin |grep gcc
+  516  ls -r  /usr/bin |grep gcc
+  517  ls -r  /usr/bin |grep gcc > ~/week1/ex1.txt
+  518  mkdir ~/week1
+  519  history > ~/week1/ex2.txt

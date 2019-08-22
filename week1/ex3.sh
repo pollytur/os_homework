@@ -1,4 +1,4 @@
 #!/bin/bash
-date
+date '+%X'
 sleep 3
-date
+date '+%X'

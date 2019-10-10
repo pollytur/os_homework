@@ -1,0 +1,3 @@
+Physical adress refers to physical memory (to the hardware, real RAM chips).
+
+Virtual memorry refers to MMU (Memory Management Unit), it takes page tables and find there the physical address assosiated with the program.

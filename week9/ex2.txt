@@ -1,0 +1,10 @@
+1. To increase hit ratio, it is needed to reference pages consequently
+  in the reversed order they were referenced before. For example sequence
+  1 2 3 4 5 5 4 3 2 1 with frame = 4 will experience only 6 misses: 
+  from 1 to 4 we have misses and put 1-4 to frame, 
+  when referencing to 5 we delete 1 as the least recent one and put 5 on it's place. 
+  For 5,4,3,2 we have hits and for last 1 one more miss appears.
+
+2. at the same time sequence 1 2 3 4 5 1 2 3 4 5 with frame = 4 will experience
+  10 misses (0 hits).So, the worst idea is to put references in the same order
+  or approximately same order. Because all the pages will be replaced in thame before the next reference.

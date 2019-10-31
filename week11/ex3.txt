@@ -1,0 +1,11 @@
+1st program output is 
+"Hello
+Hello
+
+"
+2nd program output is
+"Hello
+
+"
+This happens because before printing "Hello" goes to buffer and after forking the process new process also prints "Hello".
+But in case we have "\n" in the buffer - it clears the buffer, therefore, 2nd program does not print "Hello" after forking
